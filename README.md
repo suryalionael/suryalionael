@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Lionael Surya
 
-🎓 Data Science & Analytics Student @ Seneca Polytechnic \
-🎯 Interested in Data, AI, Automation, and Building Real-World Systems \ 
-🔎 Seeking Summer 2027 Internship \
+🎓 Data Science & Analytics Student @ Seneca Polytechnic  
+🎯 Interested in Data, AI, Automation, and Building Real-World Systems  
+🔎 Seeking Summer 2027 Internship
 
 ---
 
 ## 🚀 About
 
-I use data + automation + AI to turn messy processes into clear, scalable solutions. \ 
+I use data + automation + AI to turn messy processes into clear, scalable solutions.  
 This GitHub documents my learning through courses and projects.
 
 ---
