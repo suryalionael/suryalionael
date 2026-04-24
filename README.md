@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lionael Surya
 
-🎓 Data Science & Analytics Student @ Seneca Polytechnic
-🎯 Interested in Data, AI, Automation, and Building Real-World Systems
+🎓 Data Science & Analytics Student @ Seneca Polytechnic \
+🎯 Interested in Data, AI, Automation, and Building Real-World Systems \ 
 🔎 Seeking Summer 2027 Internship
 
 ---
