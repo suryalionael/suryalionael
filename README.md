@@ -38,7 +38,7 @@ Python (data analysis & automation) • SQL • Dashboards (Power BI/Tableau) �
 
 ## 🤝 Contact
 
-Open to **Summer 2027 Data Analyst Internships**
+Open to **Summer 2027 Data Analyst Internships**  
 Let’s connect on LinkedIn / GitHub
 
 ---
