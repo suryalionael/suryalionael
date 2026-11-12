@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: metro
+  cancel-in-progress: false
+
 jobs:
   redraw:
     runs-on: ubuntu-latest
