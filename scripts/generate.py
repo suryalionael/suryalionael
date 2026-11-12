@@ -343,7 +343,7 @@ DEFAULT_README = """{block}
 - Building data pipelines, analytics marts and ML projects end to end
 - Looking for a Summer 2027 co-op / internship
 
-[GitHub](https://github.com/{login})
+[Portfolio](https://lionael-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lionael-dwitama/) · [GitHub](https://github.com/{login})
 
 <sub>Commit Metro · redrawn every day by <a href="scripts/generate.py">a small script</a> in this repo</sub>
 """
